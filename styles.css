@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(255, 255, 255);
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height:50vh;
+
+}
+#mainText,#secondaryText{
+	color: aqua;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#button{
+	
+}
+#ytVideo{
+	border: 1px green solid;
+    width: -webkit-fill-available;
+	height: 50vh;
+	margin:50px;
+}
+#youTube{
+	color:aqua;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+}
